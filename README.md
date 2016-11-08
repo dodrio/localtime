@@ -32,7 +32,7 @@ You needn't use them all, like:
 * `hh:mm YYYY-MM-DD`
 * ...
 
-All above format is valid.
+All above formats are valid.
 
 ## License
 MIT
